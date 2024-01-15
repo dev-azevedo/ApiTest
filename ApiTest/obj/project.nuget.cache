@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqLBjlDvydCcz0S6H6M7W1VHX9jzBcBTuQVTmyzR5nIRHo5srQYntQ0h3L8OfWoyC33/lusTOH8d0Id/DtDi0Q==",
+  "success": true,
+  "projectFilePath": "C:\\VSO\\GIT\\ApiTestDotNet\\ApiTest\\ApiTest\\ApiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhonatan Azevedo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Jhonatan Azevedo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jhonatan Azevedo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jhonatan Azevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jhonatan Azevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jhonatan Azevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
